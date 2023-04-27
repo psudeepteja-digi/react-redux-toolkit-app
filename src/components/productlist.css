@@ -1,0 +1,23 @@
+.ProductList{
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 1px solid black;
+    text-align: center;
+}
+.item-model{
+padding: 10px;
+}
+.item-price{
+    padding: 10px 10px 20px 10px;
+
+}
+.model{
+    border: 1px solid black;
+    padding: 20px;
+}
+.add-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

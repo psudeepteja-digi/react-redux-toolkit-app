@@ -1,0 +1,52 @@
+ {
+    "products":[
+        
+            {
+                "id": 1,
+                "model": "Samsung Galaxy A34 5G",
+                "price": 34999
+            },
+            {
+                "id": 2,
+                "model": "IPhone 13 5G",
+                "price": 64999
+            },
+            {
+                "id": 3,
+                "model": "IPhone 13 Pro 5G",
+                "price": 123999
+            },
+            {
+                "id": 4,
+                "model": "IPhone 12 5G",
+                "price": 56999
+            },
+            {
+                "id": 5,
+                "model": "Samsung Galaxy S23 Ultra 5G",
+                "price": 37499
+            },
+            {
+                "id": 6,
+                "model": "Samsung Galaxy S22 5G",
+                "price": 45999
+            },
+            {
+                "id": 7,
+                "model": "Oppo Reno2 5G",
+                "price": 14999
+            },
+            {
+                "id": 8,
+                "model": "Vivo V22 Pro 5G",
+                "price": 24999
+            },
+            {
+                "id": 9,
+                "model": "Redmi note 10 Pro Max",
+                "price": 15999
+            }
+            
+        
+    ]
+ }
